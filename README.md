@@ -1,4 +1,4 @@
-# Supplementary material submission for "Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation"
+# Code for "Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation"
 
 PyTorch code for training models discussed in this paper. The main script for training/testing a model is ```runner.py```. 
 
